@@ -1,0 +1,26 @@
+ .picturecollections img{
+        height: 400px;
+        width: 33.33%;
+        float: left;
+        
+    }
+  
+    .picturecollections2 img{
+        height: 400px;
+        width: 33.33%;
+        float:left;
+        
+    }
+    .picturecollections3 img{
+        height: 400px;
+        width: 33.33%;
+        float:left;
+        margin-left: 10px;
+        
+    }
+    .picturecollections4 img{
+        height: 400px;
+        width: 33.33%;
+        float:left;
+        
+    }
